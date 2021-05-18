@@ -2,7 +2,7 @@
 
 Part of the Udacity Data Scientist Nano Degree Program.
 For a blog post about this project please see here:
-https://medium.com/@julhornung/my-coffee-capstone-examples-to-analyze-customer-data-5be5624e5f3d
+https://julhornung.medium.com/my-coffee-capstone-examples-to-analyze-customer-data-5be5624e5f3d
 
 # Installation
 The .ipynb file can be used with jupyter notebooks. Please see here(https://jupyter.org/install) for installation details.
